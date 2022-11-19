@@ -1,9 +1,9 @@
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://bishtsaurabh60.io)
 
 <h1 align="center">Hi 👋, I'm Saurabh Bisht</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+Self-Taught+Developer;A+Passionate+MERN+Stack+Developer;Tech-Enthusiast+From+India." alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+Self-Taught+Developer;A+Passionate+MERN+Stack+Developer;Tech-Enthusiast+From+India." alt="Typing SVG" /></a></p>
 
-<iframe src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">via GIPHY</a></p>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" width="400" class="giphy-embed" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishtsaurabh60&label=Profile%20views&color=0e75b6&style=flat" alt="bishtsaurabh60" /> </p>
