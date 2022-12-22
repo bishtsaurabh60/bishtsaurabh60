@@ -21,7 +21,6 @@
 <a href="https://twitter.com/saurabh11282496" target="blank"><img align="center" src="https://www.svgrepo.com/show/183608/twitter.svg" alt="saurabh11282496" height="40" width="40" /></a>&nbsp;
 <a href="https://linkedin.com/in/saurabh-singh-bisht-2469b0235" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="saurabh-singh-bisht-2469b0235" height="40" width="40" /></a>&nbsp;
 <a href="https://instagram.com/i_madara_uchiha_" target="blank"><img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="i_madara_uchiha_" height="40" width="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/@bishtsaurabh60" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="@bishtsaurabh60" height="40" width="40" /></a>&nbsp;
 </p>
 
 <h2 align="left">⚡ Languages and Tools:</h2>
