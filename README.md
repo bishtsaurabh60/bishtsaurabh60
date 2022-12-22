@@ -32,7 +32,7 @@
 |Project Name|Description|Link|
 |------------|-----------|----|
 |[Bingo_chat](https://github.com/bishtsaurabh60/bingo_chat)|A Real time chat app built using MERN stack.|[Click Here](https://bingo-chat-bisht60.netlify.app)|
-|[Personal Portfolio Website](https://github.com/rtewa056/portfolio-website)|My personal portfolio website built using React JS.|[Click Here](https://rohittewa.live/)|
+|[Personal Portfolio Website](https://github.com/bishtsaurabh60/personal_portfolio)|My personal portfolio website built using React JS.|[Click Here](working on)|
 |[Travel Partner](https://github.com/bishtsaurabh60/travel_partner.git)|It is a Travel Companion App, uses Geolocation, GoogleMaps API & Google Places API, fetching API to search places using React JS|[Click Here](https://travel-partner-bisht60.netlify.app/)|
 
 <br>
