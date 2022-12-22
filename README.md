@@ -39,7 +39,7 @@
 
 <h2>⚙️ GitHub Analytics:</h2>
 
-<div align="center">
+<div >
   <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishtsaurabh60&show_icons=true&locale=en" alt="bishtsaurabh60" /></span>
   <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishtsaurabh60&" alt="bishtsaurabh60" /></span>
   <br>
