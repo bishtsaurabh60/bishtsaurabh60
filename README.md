@@ -44,7 +44,7 @@
   <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishtsaurabh60&" alt="bishtsaurabh60" /></span>
   <br>
   
-  <span align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishtsaurabh60&show_icons=true&locale=en&layout=compact" alt="bishtsaurabh60" /></span>
+  <span align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishtsaurabh60&show_icons=true&locale=en&layout=compact" alt="bishtsaurabh60" /></span>
 </div>
 
 
