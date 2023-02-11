@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bishtsaurabh60@gmail.com**
 
-- ⚡ Fun fact **I think, I am funny😁**
+- ⚡ Fun fact **I Strive For Progress over Perfection😁**
 
 <h2 align="left">📱 Connect with me:</h2>
 <p align="left">
